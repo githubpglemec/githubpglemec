@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poojan Gyawali</h1>
+<h1 align="center">Hi 👋</h1>
 <img align="right" alt="Coding" width="1080" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <h3 align="center">A passionate Computer Science student with a keen interest in UI/UX design, data science, and AI/ML. Enthusiastic about creating innovative and aesthetically pleasing solutions that merge technology and design.</h3>
 
